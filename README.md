@@ -18,7 +18,7 @@ int main(void) {
 
 *Note: Quickstart command (python3 needed):*
 ```bash
-curl -s https://github.com/lspack/lspack-for-devs/main/lspack_quickstart_install_script.py | python3
+curl -s https://raw.githubusercontent.com/lspack/lspack-for-devs/main/lspack_quickstart_install_script.py | python3
 ```
 
 Manual:
