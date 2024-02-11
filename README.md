@@ -2,7 +2,7 @@
 
 ## How to make a package
 
-1. Make the program in C. In this case, we will make a test package:
+### 1. - Make the program in C. In this case, we will make a test package:
 
 - If you have just a single file, call it either `main.c` or `<package-name>.c`.
 ```c
@@ -32,7 +32,7 @@ sudo gcc -o /usr/bin/<package-name> file.c otherfile.c otherfile.c
 
 
 
-2. Make a GitHub repository with your package.
+### 2. - Make a GitHub repository with your package.
 
 - You can now send an [e-mail](mailto:leanderlombardi@gmail.com) to me and if your package is of good quality, I will publish it as an official package.
 
@@ -41,7 +41,7 @@ sudo gcc -o /usr/bin/<package-name> file.c otherfile.c otherfile.c
 
 
 
-3. Write a README.md to your package (optional)
+### 3. - Write a README.md to your package (optional)
 
 It should include the needed commands to install and uninstall your package; such as
 
