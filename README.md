@@ -16,13 +16,7 @@ int main(void) {
 
 - If you have multiple files, call them as you want and write an `lspack_install_script.sh` like this example:
 
-*Note: Quickstart command (python3 needed):*
-```bash
-wget https://raw.githubusercontent.com/lspack/lspack-for-devs/main/lspack_quickstart_install_script.py
-python3 lspack_quickstart_install_script.py
-```
-
-Manual:
+Example:
 ```bash
 sudo gcc -o /usr/bin/<package-name> file.c otherfile.c otherfile.c
 ```
