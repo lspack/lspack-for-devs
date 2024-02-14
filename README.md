@@ -45,7 +45,7 @@ It should include the needed commands to install and uninstall your package; suc
 
 You can print Hello, world! with my package. Install it:
 
-```bash
+\```bash
 lspack install package --author leanderlombardi
 ```
 
