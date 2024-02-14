@@ -40,12 +40,12 @@ sudo gcc -o /usr/bin/<package-name> file.c otherfile.c otherfile.c
 
 It should include the needed commands to install and uninstall your package; such as
 
-```md
-\# package
+```markdown
+# package
 
 You can print Hello, world! with my package. Install it:
 
-\`lspack install package --author leanderlombardi\`
+`lspack install package --author leanderlombardi`
 
 ```md
 
