@@ -47,5 +47,5 @@ You can print Hello, world! with my package. Install it:
 
 `lspack install package --author leanderlombardi`
 
-```md
+```
 
